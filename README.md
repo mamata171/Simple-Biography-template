@@ -1,2 +1,1 @@
-# Simple-Biography-template
-# Simple-Biography-template
+It is a simple biography template with some fun
